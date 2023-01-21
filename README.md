@@ -36,7 +36,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 -->
   
-  <img align="right" alt="Dev-pic" height="150" style="border-radius:50px;" src="https://media.licdn.com/dms/image/C4D03AQH8hmo_XcwZ0g/profile-displayphoto-shrink_400_400/0/1649036966113?e=1679529600&v=beta&t=6c_Fv4gt2AhekOjMBjl3_jF345gjiJyhTuGA3dHuyxI">
+  <img align="right" alt="Dev-pic" style="border-radius: 50%; width: 150px; height: 150px;" src="https://media.licdn.com/dms/image/C4D03AQH8hmo_XcwZ0g/profile-displayphoto-shrink_400_400/0/1649036966113?e=1679529600&v=beta&t=6c_Fv4gt2AhekOjMBjl3_jF345gjiJyhTuGA3dHuyxI">
+  
 </div>
   
 
