@@ -34,10 +34,10 @@
 
 #### ☁ Infraestrutura / DevOps
 - Servidores Linux  
-- Automações em Shell Scripts
+- Automações em *Shell Scripts*
 - Rede TCP/IP
 - Segurança de rede
-- Programação Terraform para AWS Amazon
+- Programação *Terraform* para AWS Amazon
 
 
 <!--
