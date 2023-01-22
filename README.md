@@ -3,8 +3,8 @@
 </div>
 
 ## Olá! Eu sou Marcos Antônio de CARVALHO 👋 
-- 👀 Aposentado com mais de 30 anos de experiência em TI
 - 💖 Apaixonado por Tecnologia e um bom café.
+- 👀 Aposentado com mais de 30 anos de experiência em TI
 - 😄 Pronomes: Ele/Dele
 
  <!-- 
