@@ -33,7 +33,7 @@
 - MongoDB
 
 #### ☁ Infraestrutura / DevOps
-- Servidor Linux  
+- Servidores Linux  
 - Automações em Shell Scripts
 - Rede TCP/IP
 - Segurança de rede
