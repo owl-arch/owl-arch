@@ -18,19 +18,19 @@
 </div>
 <br>
 
-> #### 🚀 Frontend
-> - HTML 
-> - CSS
+#### 🚀 Frontend
+>> - HTML 
+>> - CSS
 
-> #### 🚀 Backend
-> - TCL/Expect
-> - PHP Scripts
-> - NodeJS
+#### 🚀 Backend
+>> - TCL/Expect
+>> - PHP Scripts
+>> - NodeJS
 
-> #### ⚡ Database
-> - RRDtools
-> - MySQL
-> - MongoDB
+#### ⚡ Database
+>> - RRDtools
+>> - MySQL
+>> - MongoDB
 
 #### ☁ Infraestrutura / DevOps
 >> - Servidor Linux  
