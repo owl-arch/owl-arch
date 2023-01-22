@@ -27,7 +27,7 @@
 - PHP Scripts
 - NodeJS
 
-#### Database
+#### ⚡ Database
 - RRDtools
 - MySQL
 - MongoDB
