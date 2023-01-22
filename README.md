@@ -1,5 +1,5 @@
 <div style="display: inline_block"><br>
-  <img align="right" alt="Dev-pic" style="border-radius: 50%; width: 150px; height: 150px;" src="https://media.licdn.com/dms/image/C4D03AQH8hmo_XcwZ0g/profile-displayphoto-shrink_400_400/0/1649036966113?e=1679529600&v=beta&t=6c_Fv4gt2AhekOjMBjl3_jF345gjiJyhTuGA3dHuyxI">
+  <img align="right" alt="Dev-pic" style="border-radius: 50%; width: auto; height: 120px;" src="https://marquesfernandes.com/wp-content/uploads/2020/08/Servidor-e1597608701874-1536x568.jpg">
 </div>
 
 ## Olá! Eu sou Marcos Antônio de carvalho 👋 
@@ -17,9 +17,7 @@
   <a href = "https://web.whatsapp.com/+5561981575525"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="right" alt="Dev-pic" style="border-radius: 50%; width: auto; height: 120px;" src="https://marquesfernandes.com/wp-content/uploads/2020/08/Servidor-e1597608701874-1536x568.jpg">
-</div>
+
 #### 🚀 Frontend
 - HTML 
 - CSS
