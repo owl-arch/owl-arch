@@ -17,7 +17,9 @@
   <a href = "https://web.whatsapp.com/+5561981575525"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  
 </div>
 
-
+<div style="display: inline_block"><br>
+  <img align="right" alt="Dev-pic" style="border-radius: 50%; width: auto; height: 150px;" src="https://marquesfernandes.com/wp-content/uploads/2020/08/Servidor-e1597608701874-1536x568.jpg">
+</div>
 #### 🚀 Frontend
 - HTML 
 - CSS
