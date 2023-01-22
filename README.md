@@ -3,9 +3,9 @@
 </div>
 
 ## Olá! Eu sou Marcos Antônio de CARVALHO 👋 
-- 💖 Apaixonado por Tecnologia e um bom café.
-- 👀 Aposentado com mais de 30 anos de experiência em TI
-- 😄 Pronomes: Ele/Dele
+> - 💖 Apaixonado por Tecnologia e um bom café.
+> - 👀 Aposentado com mais de 30 anos de experiência em TI
+> - 😄 Pronomes: Ele/Dele
 
  <!-- 
  Etiquetas para contato
@@ -16,28 +16,28 @@
   <a href="https://www.linkedin.com/in/marcos-antonio-carvalho-5673218a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "https://web.whatsapp.com/+5561981575525"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  
 </div>
+<br>
 
+> #### 🚀 Frontend
+> - HTML 
+> - CSS
 
-#### 🚀 Frontend
-- HTML 
-- CSS
+> #### 🚀 Backend
+> - TCL/Expect
+> - PHP Scripts
+> - NodeJS
 
-#### 🚀 Backend
-- TCL/Expect
-- PHP Scripts
-- NodeJS
-
-#### ⚡ Database
-- RRDtools
-- MySQL
-- MongoDB
+> #### ⚡ Database
+> - RRDtools
+> - MySQL
+> - MongoDB
 
 #### ☁ Infraestrutura / DevOps
-- Servidor Linux  
-- Automações em Shell Scripts
-- Rede TCP/IP
-- Segurança de rede
-- Programação Terraform para AWS Amazon
+>> - Servidor Linux  
+>> - Automações em Shell Scripts
+>> - Rede TCP/IP
+>> - Segurança de rede
+>> - Programação Terraform para AWS Amazon
 
 
 <!--
