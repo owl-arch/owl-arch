@@ -18,24 +18,25 @@
 
 
 #### Frontend
-- HTML e CSS
+- HTML 
+- CSS
 
 #### Backend
-- PHP
 - TCL/Expect
+- PHP Scripts
 - NodeJS
 
 #### Database
+- RRDtools
 - MySQL
 - MongoDB
-- RRDtools
 
-#### Infraestrutura
-- Linux e Shell Scripts
-- Programação Terraform para AWS Amazon
+#### Infraestrutura / DevOps
+- Servidor Linux  
+- Automações em Shell Scripts
 - Rede TCP/IP
 - Segurança de rede
-
+- Programação Terraform para AWS Amazon
 
 
 <!--
