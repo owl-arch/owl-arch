@@ -41,6 +41,9 @@ Comando   | Finalidade
      src="https://nitayneeman.gallerycdn.vsassets.io/extensions/nitayneeman/git-semantic-commit/2.0.0/1581021638044/Microsoft.VisualStudio.Services.Icons.Default">
 </div>
 
+
+<br>
+
 ## Convenção de mensagem para commit
 
 #### A mensagem do commit deve ser estruturada da seguinte forma:
@@ -71,9 +74,10 @@ others   | Outras não previstos |
 > Uma BREAKING CHANGE pode fazer parte de commits de qualquer tipo
 
 
-
+<br>
 
 ## Normatização (Especificação) da Conventional Commits
+<https://www.conventionalcommits.org/pt-br/v1.0.0/>
 > As palavras-chaves “DEVE” (“MUST”), “NÃO DEVE” (“MUST NOT”), “OBRIGATÓRIO” (“REQUIRED”), “DEVERÁ” (“SHALL”), “NÃO DEVERÁ” (“SHALL NOT”), “PODEM” (“SHOULD”), “NÃO PODEM” (“SHOULD NOT”), “RECOMENDADO” (“RECOMMENDED”), “PODE” (“MAY”) e “OPCIONAL” (“OPTIONAL”), nesse documento, devem ser interpretados como descrito na **RFC 2119**.
 
 1. A mensagem de commit DEVE ser prefixado com um tipo, que consiste em um substantivo, feat, fix, etc., seguido por um escopo OPCIONAL, símbolo OPCIONAL !, e OBRIGATÓRIO terminar com dois-pontos e um espaço.
