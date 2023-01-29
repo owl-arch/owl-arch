@@ -64,9 +64,9 @@ Branch   | Finalidade
 <br>
 
 Substantivo | Finalidade do substantivo da Alteração | Exemplo
-:---------- | :------: | -------:
-fix      | Correção de bug | fix(scope): bug in scope
-feat     | Novo recurso    | feat(parser): add ability to parse arrays <br> feat(api)!: send an email to the customer
+---------- | ------ | -------
+fix      | Uma correção de bug | fix(scope): bug in scope
+feat     | Um novo recurso    | feat(parser): add ability to parse arrays <br> feat(api)!: send an email to the customer
 build    | Compilação ou dependências externas | build: update dependencies
 chore    | Não Afeta codigo fonte fonte ou os testes | chore(deps): update dependencies
 ci       | Arquivos e scripts de configuração de CI (Integração Contínua) | 
