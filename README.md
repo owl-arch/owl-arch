@@ -28,9 +28,8 @@
 - NodeJS
 
 #### ⚡ Database
-- RRDtools
 - MySQL
-- MongoDB
+- RRDtools
 
 #### ☁ Infraestrutura / DevOps
 - Servidores Linux  
