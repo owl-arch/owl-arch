@@ -18,6 +18,14 @@
 </div>
 <br>
 
+🚀 Frontend | 🚀 Backend | ⚡ Database 
+------------ | ---------- | -----------
+HTML         | TCL/Expect | MySQL
+CSS          | PHP Scripts| RRDtools
+.            | NodeJS     | .
+
+
+<!--
 #### 🚀 Frontend
 - HTML 
 - CSS
@@ -30,6 +38,8 @@
 #### ⚡ Database
 - MySQL
 - RRDtools
+
+-->
 
 #### ☁ Infraestrutura / DevOps
 - Servidores Linux  
