@@ -33,7 +33,7 @@ Automações em *Shell Scripts*
 Rede TCP/IP
 Segurança de rede
 Docker containers
-Programação *Terraform* para AWS Amazon
+Programação *Terraform* para cloud AWS Amazon
 
 <!--
 #### 🚀 Frontend
