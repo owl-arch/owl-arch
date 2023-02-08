@@ -19,11 +19,21 @@
 <br>
 
 🚀 Frontend | 🚀 Backend | ⚡ Database 
------------- | ---------- | -----------
+:----------- | :---------- | :-----------
 HTML         | TCL/Expect | MySQL
 CSS          | PHP Scripts| RRDtools
 .            | NodeJS     | .
 
+<br>
+
+☁ Infraestrutura / DevOps |
+:------------------------- |
+Servidores Linux           
+Automações em *Shell Scripts* 
+Rede TCP/IP
+Segurança de rede
+Docker containers
+Programação *Terraform* para AWS Amazon
 
 <!--
 #### 🚀 Frontend
@@ -39,8 +49,6 @@ CSS          | PHP Scripts| RRDtools
 - MySQL
 - RRDtools
 
--->
-
 #### ☁ Infraestrutura / DevOps
 - Servidores Linux  
 - Automações em *Shell Scripts*
@@ -49,6 +57,7 @@ CSS          | PHP Scripts| RRDtools
 - Docker containers
 - Programação *Terraform* para AWS Amazon
 
+-->
 
 <!--
 **dev-carvalho/dev-carvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
