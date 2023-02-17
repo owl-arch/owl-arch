@@ -36,7 +36,8 @@ CSS          | PHP Scripts| MySQL
 
 ☁ Infraestrutura / DevOps |
 :------------------------- |
-Servidores Linux           
+Servidores Linux 
+GIT / GitHub
 Docker Containers / Docker Compose
 HCL *Terraform* para cloud AWS Amazon
 Automações em *Shell Scripts* 
