@@ -40,7 +40,7 @@ Servidores Linux
 Automações em *Shell Scripts* 
 Rede TCP/IP
 Segurança de rede
-Docker containers
+Docker Containers / Docker Conpose
 Programação *Terraform* para cloud AWS Amazon
 
 <!--
