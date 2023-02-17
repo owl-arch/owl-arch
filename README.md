@@ -62,7 +62,7 @@ Programação *Terraform* para cloud AWS Amazon
 - Automações em *Shell Scripts*
 - Rede TCP/IP
 - Segurança de rede
-- Docker containers
+- Docker containers / Docker Compose
 - Programação *Terraform* para AWS Amazon
 
 -->
