@@ -37,12 +37,10 @@ CSS          | PHP Scripts| RRDtools
 ☁ Infraestrutura / DevOps |
 :------------------------- |
 Servidores Linux           
-Automações em *Shell Scripts* 
-Rede TCP/IP
-Segurança de rede
 Docker Containers / Docker Compose
 HCL *Terraform* para cloud AWS Amazon
-
+Automações em *Shell Scripts* 
+Rede TCP/IP - Segurança de rede
 
 <!--
 #### 🚀 Frontend
