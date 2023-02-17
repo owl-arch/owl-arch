@@ -28,9 +28,9 @@
 
 🚀 Frontend | 🚀 Backend | ⚡ Database 
 :----------- | :---------- | :-----------
-HTML         | TCL/Expect | MySQL
-CSS          | PHP Scripts| RRDtools
-.            | NodeJS     | .
+HTML         | TCL/Expect | Postgres
+CSS          | PHP Scripts| MySQL
+.            | NodeJS     | RRDtools
 
 <br>
 
