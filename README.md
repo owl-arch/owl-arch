@@ -63,7 +63,7 @@ Programação *Terraform* para cloud AWS Amazon
 - Rede TCP/IP
 - Segurança de rede
 - Docker containers / Docker Compose
-- Programação *Terraform* para AWS Amazon
+- HCL *Terraform* para AWS Amazon
 
 -->
 
