@@ -41,7 +41,7 @@ Automações em *Shell Scripts*
 Rede TCP/IP
 Segurança de rede
 Docker Containers / Docker Compose
-Programação *Terraform* para cloud AWS Amazon
+HCL *Terraform* para cloud AWS Amazon
 
 <!--
 #### 🚀 Frontend
