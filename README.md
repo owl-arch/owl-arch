@@ -43,6 +43,7 @@ Segurança de rede
 Docker Containers / Docker Compose
 HCL *Terraform* para cloud AWS Amazon
 
+
 <!--
 #### 🚀 Frontend
 - HTML 
@@ -59,11 +60,10 @@ HCL *Terraform* para cloud AWS Amazon
 
 #### ☁ Infraestrutura / DevOps
 - Servidores Linux  
-- Automações em *Shell Scripts*
-- Rede TCP/IP
-- Segurança de rede
 - Docker containers / Docker Compose
 - HCL *Terraform* para AWS Amazon
+- Automações em *Shell Scripts*
+- Rede TCP/IP - Segurança de rede
 
 -->
 
