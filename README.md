@@ -26,15 +26,11 @@
 
 <br>
 
-
-
-🚀 Frontend | 🚀 Backend | ⚡ Database  | ⚡ Monitoring | Mainframe
-:----------- | :--------- | :----------- | :------------ | ---------
-HTML         | TCL/Expect | Postgres     | Prometheus    | TN3270
-CSS          | PHP Scripts| MySQL        | Grafana       | RMF III
-             | NodeJS     | RRDtools     |               | SDSF
-
-<br>
+🚀 Frontend | 🚀 Backend  | ⚡ Database  | 🛠️ Monitoring | ⚡ Mainframe
+:----------- | :---------- | :----------- | :------------- | ---------
+HTML         | TCL/Expect  | Postgres     | Prometheus     | TN3270
+CSS          | PHP Scripts | MySQL        | Grafana        | RMF III
+             | NodeJS      | RRDtools     |                | SDSF
 
 ☁ Infraestrutura / DevOps             
 :-------------------------------------
@@ -43,7 +39,11 @@ GIT / GitHub
 Docker Containers / Docker Compose    
 HCL *Terraform* para cloud AWS Amazon 
 Automações em *Shell Scripts*         
-Rede TCP/IP - Segurança de rede       
+Rede TCP/IP - Segurança de rede   
+
+<br>
+
+<!--
 
 ### 🛠️ Ferramentas
 
@@ -96,7 +96,7 @@ Rede TCP/IP - Segurança de rede
 
 
 
-<!--
+
 #### 🚀 Frontend
 - HTML 
 - CSS
