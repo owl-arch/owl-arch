@@ -26,22 +26,22 @@
   <img align="right" alt="Dev-pic" style="border-radius: 50%; width: auto; height: 110px;" src="https://marquesfernandes.com/wp-content/uploads/2020/08/Servidor-e1597608701874-1536x568.jpg">
 </div>
 
-🚀 Frontend | 🚀 Backend | ⚡ Database  | ⚡ Monitoring
-:----------- | :--------- | :----------- | :------------
-HTML         | TCL/Expect | Postgres     | Prometheus
-CSS          | PHP Scripts| MySQL        | Grafana
-             | NodeJS     | RRDtools     |
+🚀 Frontend | 🚀 Backend | ⚡ Database  | ⚡ Monitoring | Mainframe
+:----------- | :--------- | :----------- | :------------ | ---------
+HTML         | TCL/Expect | Postgres     | Prometheus    | TN3270
+CSS          | PHP Scripts| MySQL        | Grafana       | RMF III
+             | NodeJS     | RRDtools     |               | SDSF
 
 <br>
 
-☁ Infraestrutura / DevOps |
-:------------------------- |
-Servidores Linux 
-GIT / GitHub
-Docker Containers / Docker Compose
-HCL *Terraform* para cloud AWS Amazon
-Automações em *Shell Scripts* 
-Rede TCP/IP - Segurança de rede
+☁ Infraestrutura / DevOps             
+:-------------------------------------
+Servidores Linux                      
+GIT / GitHub                          
+Docker Containers / Docker Compose    
+HCL *Terraform* para cloud AWS Amazon 
+Automações em *Shell Scripts*         
+Rede TCP/IP - Segurança de rede       
 
 ### 🛠️ Ferramentas
 
