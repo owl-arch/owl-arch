@@ -30,7 +30,6 @@
 | --------------- | :------------- | 
 | Microservices   |  Prometheus    | 
 | Rede TCP/IP     |  Grafana       | 
-|                 |                | 
 
 
 | 🚀 Frontend | 🚀 Backend   | 
