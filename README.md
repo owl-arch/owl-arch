@@ -7,6 +7,9 @@
 <div style="display: inline_block"><br>
   <img align="right" alt="Dev-pic" style="border-radius: 50%; width: auto; height: 110px;" src="https://marquesfernandes.com/wp-content/uploads/2020/08/Servidor-e1597608701874-1536x568.jpg">
 </div>
+
+| ✨ Architecture | 🛠️ Monitoring |
+
 -->
 
 >### 👋 Olá! Eu sou Marcos
@@ -29,7 +32,7 @@
 
 <br>
 
-| ✨ Architecture | 🛠️ Monitoring |
+| ✨ Arch         | 🛠️ Monitor    |
 | :-------------- | :------------- | 
 | Microservices   |  Prometheus    | 
 | Rede TCP/IP     |  Grafana       | 
