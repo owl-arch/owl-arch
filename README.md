@@ -28,7 +28,7 @@
 <br>
 
 | ✨ Architecture | 🛠️ Monitoring |
-| --------------- | :------------- | 
+| :-------------- | :------------- | 
 | Microservices   |  Prometheus    | 
 | Rede TCP/IP     |  Grafana       | 
 
