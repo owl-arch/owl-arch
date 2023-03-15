@@ -26,11 +26,11 @@
 
 <br>
 
-🚀 Frontend | 🚀 Backend  | ⚡ Database  | 🛠️ Monitoring | ⚡ Mainframe
-:----------- | :---------- | :----------- | :------------- | ---------
-HTML         | TCL/Expect  | Postgres     | Prometheus     | TN3270
-CSS          | PHP Scripts | MySQL        | Grafana        | RMF III
-             | NodeJS      | RRDtools     |                | SDSF
+🚀 Frontend | 🚀 Backend  | ⚡ Database  | 🛠️ Monitoring | ⚡ Mainframe | ✨ Architecture
+:----------- | :---------- | :----------- | :------------- | ------------ | ----------------
+HTML         | TCL/Expect  | Postgres     | Prometheus     | TN3270       | Microservices
+CSS          | PHP Scripts | MySQL        | Grafana        | RMF III      | Rede TCP/IP
+             | NodeJS      | RRDtools     |                | SDSF         |
 
 ☁ Infraestrutura / DevOps             
 :-------------------------------------
