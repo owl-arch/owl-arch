@@ -35,11 +35,11 @@
 | Rede TCP/IP     |  Grafana       | 
 
 
-| 🚀 Frontend | 🚀 Backend   | 
-| :----------- | :----------- | 
-| HTML         | TCL/Expect   | 
-| CSS          | PHP Scripts  | 
-|              | Python       | 
+| 🚀 Frontend    | 🚀 Backend   | 
+| :------------- | :----------- | 
+| HTML           | TCL/Expect   | 
+| CSS            | PHP Scripts  | 
+|                | Python       | 
 
 
 | ⚡ Database  | ⚡ Mainframe   |
