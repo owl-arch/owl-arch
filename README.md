@@ -30,7 +30,7 @@
 | ----------------- | :----------- | :----------- | :----------- | :------------- | ------------ 
 | Microservices     | HTML         | TCL/Expect   | Postgres     | Prometheus     | TN3270       
 | Rede TCP/IP       | CSS          | PHP Scripts  | MySQL        | Grafana        | RMF III      
-| Segurança de rede |              | NodeJS       | RRDtools     |                | SDSF           
+| Segurança de rede |              | Python       | RRDtools     |                | SDSF           
 
 <br>
 
