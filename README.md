@@ -37,7 +37,6 @@
 Servidores Linux        | Automações em *Shell Scripts*         | VSCODE
 Docker / Docker Compose | HCL *Terraform* para cloud AWS Amazon | Insomnia
 GIT / GitHub            |                                       | Postman
-Rede TCP/IP             |                                       |  
 
 <br>
 
