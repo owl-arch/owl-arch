@@ -32,6 +32,8 @@
 | Rede TCP/IP       | CSS          | PHP Scripts  | MySQL        | Grafana        | RMF III      
 | Segurança de rede |              | NodeJS       | RRDtools     |                | SDSF           
 
+<br>
+
 ☁ Infraestrutura       | 🛠️ Automatizações                     | 🛠️ Ferramentas
 :---------------------- | :------------------------------------ | :-------------
 Servidores Linux        | Automações em *Shell Scripts*         | VSCODE
