@@ -28,9 +28,9 @@
 
 | ✨ Architecture   | 🚀 Frontend | 🚀 Backend  | ⚡ Database  | 🛠️ Monitoring | ⚡ Mainframe 
 | ----------------- | :----------- | :----------- | :----------- | :------------- | ------------ 
-| Microservices     | HTML         | TCL/Expect   | Postgres     | Prometheus     | TN3270       
-| Rede TCP/IP       | CSS          | PHP Scripts  | MySQL        | Grafana        | RMF III      
-| Segurança de rede |              | Python       | RRDtools     |                | SDSF           
+| Microservices     | HTML         | Python       | Postgres     | Prometheus     | TN3270       
+| Rede TCP/IP       | CSS          | TCL/Expect   | MySQL        | Grafana        | RMF III      
+| Segurança de rede |              | PHP Scripts  | RRDtools     |                | SDSF           
 
 <br>
 
