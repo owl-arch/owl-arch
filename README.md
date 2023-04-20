@@ -28,16 +28,16 @@
 
 | ✨ Architecture   | 🚀 Frontend | 🚀 Backend  | ⚡ Database  | 🛠️ Monitoring | ⚡ Mainframe 
 | ----------------- | :----------- | :----------- | :----------- | :------------- | ------------ 
-| Microservices     | HTML         | Python       | Postgres     | Prometheus     | TN3270       
-| Rede TCP/IP       | CSS          | TCL/Expect   | MySQL        | Grafana        | RMF III      
+| `MICROSERVICES`   | HTML         | Python       | Postgres     | Prometheus     | `TN3270 Comunication`       
+| `Rede TCP/IP`     | CSS          | TCL/Expect   | `MySQL`      | `Grafana`      | `RMF III`
 | Segurança de rede |              | PHP Scripts  | RRDtools     |                | SDSF           
 
 <br>
 
 ☁ Infraestrutura       | 🛠️ Automatizações                     | 🛠️ Ferramentas
 :---------------------- | :------------------------------------ | :-------------
-Servidores Linux        | Automações em *Shell Scripts*         | VS Code
-DOCKER / Docker Compose | HCL *Terraform* para cloud AWS Amazon | Insomnia
+`Linux Server`        | Automações em *Shell Scripts*         | VS Code
+`DOCKER` / Docker Compose | HCL *Terraform* para cloud AWS Amazon | Insomnia
 GIT / GitHub            |                                       | Postman
 
 <br>
