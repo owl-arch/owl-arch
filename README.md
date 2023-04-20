@@ -37,7 +37,7 @@
 ☁ Infraestrutura       | 🛠️ Automatizações                     | 🛠️ Ferramentas
 :---------------------- | :------------------------------------ | :-------------
 Servidores Linux        | Automações em *Shell Scripts*         | VS Code
-Docker / Docker Compose | HCL *Terraform* para cloud AWS Amazon | Insomnia
+DOCKER / Docker Compose | HCL *Terraform* para cloud AWS Amazon | Insomnia
 GIT / GitHub            |                                       | Postman
 
 <br>
