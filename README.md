@@ -28,10 +28,10 @@
 
 | ✨ Architecture   | 🚀 Frontend | 🚀 Backend  | ⚡ Database  | 🛠️ Monitoring | ⚡ Mainframe 
 | ----------------- | :----------- | :----------- | :----------- | :------------- | ------------ 
-| `MICROSERVICES`   | HTML         | Python       | Postgres     | Prometheus     | `TN3270 Comunication`       
-| `Rede TCP/IP`     | CSS          | TCL/Expect   | `MySQL`      | `Grafana`      | `RMF III`
-| Segurança de rede |              | PHP Scripts  | RRDtools     |                | SDSF           
-
+| `Events-Driven`   | HTML         | Python       | Postgres     | Prometheus     | `TN3270 Comunication`       
+| `TCP/IP network`  | CSS          | FastAPI      | `MySQL`      | `Grafana`      | `RMF III`
+| Network Security  |              | `Celery`     | RRDtools     | Flower         | SDSF           
+|                   |              | `RabbitMQ`   |
 <br>
 
 ☁ Infraestrutura       | 🛠️ Automatizações                     | 🛠️ Ferramentas
