@@ -26,12 +26,12 @@
 
 <br>
 
-| ✨ Architecture   | 🚀 Frontend | 🚀 Backend  | ⚡ Database  | 🛠️ Monitoring | ⚡ Mainframe 
-| ----------------- | :----------- | :----------- | :----------- | :------------- | ------------ 
-| `Events-Driven`   | HTML         | Python       | Postgres     | Prometheus     | `TN3270 Comunication`       
-| `TCP/IP network`  | CSS          | FastAPI      | `MySQL`      | `Grafana`      | `RMF III`
-| Network Security  |              | `Celery`     | RRDtools     | Flower         | SDSF           
-|                   |              | `RabbitMQ`   |
+| ✨ Architecture    | 🚀 Frontend | 🚀 Backend  | ⚡ Database  | 🛠️ Monitoring | ⚡ Mainframe 
+| ------------------ | :----------- | :----------- | :----------- | :------------- | ------------ 
+| `Events-Driven`    | HTML         | Python       | Postgres     | Prometheus     | `TN3270 Comunication`       
+| `SAGA Parttern`    | CSS          | FastAPI      | `MySQL`      | `Grafana`      | `RMF III`
+| `TCP/IP network`   |              | `Celery`     | RRDtools     | Flower         | SDSF           
+|   Network Security |              | `RabbitMQ`   |
 <br>
 
 ☁ Infraestrutura       | 🛠️ Automatizações                     | 🛠️ Ferramentas
