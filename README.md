@@ -26,18 +26,18 @@
 
 <br>
 
-| ✨ Architecture    | 🚀 Frontend | 🚀 Backend  | ⚡ Database  | 🛠️ Monitoring | ⚡ Mainframe 
-| ------------------ | :----------- | :----------- | :----------- | :------------- | ------------ 
-| `Events-Driven`    | HTML         | Python       | Postgres     | Prometheus     | `TN3270 Comunication`       
-| Pattern SAGA       | CSS          | FastAPI      | `MySQL`      | `Grafana`      | `RMF III`
-| `TCP/IP network`   |              | `Celery`     | RRDtools     | Flower         | SDSF           
-|   Network Security |              | `RabbitMQ`   |
+| ✨ Architecture  | 🚀 Frontend | 🚀 Backend | ⚡ Database | 🛠️ Monitoring | ⚡ Mainframe 
+| ---------------- | :----------- | :---------- | :---------- | :------------- | ------------ 
+| Events-Driven    | HTML         | Python      | Postgres    | Prometheus     | TN3270 Comunication
+| Pattern SAGA     | CSS          | FastAPI     | MySQL       | Grafana        | RMF III
+| TCP/IP network   |              | Celery      | RRDtools    | Flower         | SDSF           
+| Network Security |              | RabbitMQ    |
 <br>
 
-☁ Infraestrutura       | 🛠️ Automatizações                     | 🛠️ Ferramentas
+☁ Infraestrutura        | 🛠️ Automatizações                     | 🛠️ Ferramentas
 :---------------------- | :------------------------------------ | :-------------
-`Linux Server`        | `Automações em *Shell Scripts*`         | `VS Code`
-DOCKER / `Docker Compose` | HCL *Terraform* para cloud AWS Amazon | Insomnia
+Linux Server            | Automações em *Shell Scripts*         | VS Code
+DOCKER / Docker Compose | HCL *Terraform* para cloud AWS Amazon | Insomnia
 GIT / GitHub            |                                       | Postman
 
 <br>
