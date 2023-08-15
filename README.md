@@ -36,8 +36,8 @@
 
 ☁ Infraestrutura        | 🛠️ Automatizações                     | 🛠️ Ferramentas | Scraping
 :---------------------- | :------------------------------------ | :--------------- | :---------
-Linux Server            | Automações em *Shell Scripts*         | VS Code          | Web
-DOCKER / Docker Compose | HCL *Terraform* para cloud AWS Amazon | Insomnia         | 3270
+Linux Server            | Automações em *Shell Scripts*         | VS Code          | Web / HTTP
+DOCKER / Docker Compose | HCL *Terraform* para cloud AWS Amazon | Insomnia         | TN3270
 GIT / GitHub            |                                       | Postman          | 
 
 <br>
