@@ -34,11 +34,11 @@
 | Network Security |              | RabbitMQ    |
 <br>
 
-☁ Infraestrutura        | 🛠️ Automatizações                     | 🛠️ Ferramentas
-:---------------------- | :------------------------------------ | :-------------
-Linux Server            | Automações em *Shell Scripts*         | VS Code
-DOCKER / Docker Compose | HCL *Terraform* para cloud AWS Amazon | Insomnia
-GIT / GitHub            |                                       | Postman
+☁ Infraestrutura        | 🛠️ Automatizações                     | 🛠️ Ferramentas | Scraping
+:---------------------- | :------------------------------------ | :--------------- | :---------
+Linux Server            | Automações em *Shell Scripts*         | VS Code          | Web
+DOCKER / Docker Compose | HCL *Terraform* para cloud AWS Amazon | Insomnia         | 3270
+GIT / GitHub            |                                       | Postman          | 
 
 <br>
 
