@@ -29,16 +29,16 @@
 | ✨ Architecture  | 🚀 Frontend | 🚀 Backend | ⚡ Database | 🛠️ Monitoring | ⚡ Mainframe 
 | ---------------- | :----------- | :---------- | :---------- | :------------- | ------------ 
 | Event-Driven     | HTML         | Python      | Postgres    | Prometheus     | TN3270 Comunication
-| Pattern SAGA     | CSS          | FastAPI     | MySQL       | Grafana        | RMF III
-| TCP/IP network   |              | Celery      | RRDtools    | Flower         | SDSF           
-| Network Security |              | RabbitMQ    |
+| SAGA Pattern     | CSS          | FastAPI     | MySQL       | Grafana        | RMF III
+| Facade Pattern   |              | Celery      | RRDtools    | Flower         | SDSF           
+|                  |              | RabbitMQ    |
 <br>
 
-☁ Infraestrutura        | 🛠️ Automatizações                     | 🛠️ Ferramentas | Scraping
-:---------------------- | :------------------------------------ | :--------------- | :---------
-Linux Server            | Automações em *Shell Scripts*         | VS Code          | Web / HTTP
-DOCKER / Docker Compose | HCL *Terraform* para cloud AWS Amazon | Insomnia         | TN3270
-GIT / GitHub            |                                       | Postman          | 
+✨ Network         | ☁ Infraestrutura        | 🛠️ Automatizações                     | 🛠️ Ferramentas | Scraping
+:----------------- | :---------------------- | :------------------------------------ | :--------------- | :---------
+| TCP/IP network   |  Linux Server            | Automações em *Shell Scripts*         | VS Code          | Web / HTTP
+| Network Security | DOCKER / Docker Compose | HCL *Terraform* para cloud AWS Amazon | Insomnia         | TN3270
+                   | GIT / GitHub            |                                       | Postman          | 
 
 <br>
 
