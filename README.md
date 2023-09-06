@@ -34,8 +34,8 @@
 |                  |              | RabbitMQ    |
 <br>
 
-✨ Network         | ☁ Infraestrutura        | 🛠️ Automatizações                     | 🛠️ Ferramentas | Scraping
-:----------------- | :---------------------- | :------------------------------------ | :--------------- | :---------
+| ✨ Network         | ☁ Infraestrutura        | 🛠️ Automatizações                     | 🛠️ Ferramentas | Scraping
+| :----------------- | :---------------------- | :------------------------------------ | :--------------- | :---------
 | TCP/IP network   |  Linux Server            | Automações em *Shell Scripts*         | VS Code          | Web / HTTP
 | Network Security | DOCKER / Docker Compose | HCL *Terraform* para cloud AWS Amazon | Insomnia         | TN3270
                    | GIT / GitHub            |                                       | Postman          | 
