@@ -42,12 +42,18 @@
 |             |                |      
 <br>
 
-| ✨ Network      | ☁ Infraestrutura        | 🛠️ Automatizações                     | 🛠️ Ferramentas | Scraping
-| :--------------- | :---------------------- | :------------------------------------ | :--------------- | :---------
-| TCP/IP network   |  Linux Server           | Automações em *Shell Scripts*         | VS Code          | Web / HTTP
-| Network Security | DOCKER / Docker Compose | HCL *Terraform* para cloud AWS Amazon | Insomnia         | TN3270
-                   | GIT / GitHub            |                                       | Postman          | 
+| ✨ Network      | ☁ Infraestrutura        
+| :--------------- | :---------------------- 
+| TCP/IP network   |  Linux Server           
+| Network Security | DOCKER / Docker Compose 
+                   | GIT / GitHub            
+<br>
 
+| 🛠️ Automatizações                     | 🛠️ Ferramentas | Scraping
+| :------------------------------------ | :--------------- | :---------
+| Automações em *Shell Scripts*         | VS Code          | Web / HTTP
+| HCL *Terraform* para cloud AWS Amazon | Insomnia         | TN3270
+|                                       | Postman          | 
 <br>
 
 <!--
