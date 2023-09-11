@@ -49,12 +49,20 @@
                    | GIT / GitHub            
 <br>
 
-| 🛠️ Automatizações                     | 🛠️ Ferramentas | Scraping
-| :------------------------------------ | :--------------- | :---------
-| Automações em *Shell Scripts*         | VS Code          | Web / HTTP
-| HCL *Terraform* para cloud AWS Amazon | Insomnia         | TN3270
+| 🛠️ Automatizações                     | 🛠️ Ferramentas 
+| :------------------------------------ | :--------------- 
+| Automações em *Shell Scripts*         | VS Code          
+| HCL *Terraform* para cloud AWS Amazon | Insomnia         
 |                                       | Postman          | 
 <br>
+
+#### Data Science
+| Scraping   | Pandas
+| :--------- | :-----------
+| Web / HTTP | Analise Exploratória
+| TN3270     | 
+|            |
+
 
 <!--
 
