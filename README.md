@@ -59,8 +59,8 @@
 #### Data Science
 | Scraping   | Pandas
 | :--------- | :-----------
-| Web / HTTP | Analise Exploratória
-| TN3270     | 
+| Web / HTTP | Exploratory Analysis
+| TN3270     | data cleaning
 |            |
 
 
