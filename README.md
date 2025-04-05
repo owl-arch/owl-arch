@@ -9,7 +9,7 @@
 </div>
 
 >## 👋 Olá! Eu sou Marcos
-> - 💖 Apaixonado por Tecnologia e um bom café quente.
+> - 💖 Apaixonado por Tecnologia e um café quente.
 > - 👀 Sessentão aposentado com mais de 35 anos de experiência em TI
 > - 😄 Pronomes: Ele/Dele
 > -  📍  Brasília/Distrito Federal, Brazil.
