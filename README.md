@@ -32,8 +32,8 @@
 | ---------------- | :----------- | :---------- 
 | Event-Driven     | HTML         | Python      
 | SAGA Pattern     | CSS          | FastAPI    
-| Facade Pattern   |              | Celery              
-|                  |              | RabbitMQ    
+| MicroKernel      |              | Celery              
+| Facade Pattern   |              | RabbitMQ    
 <br>
 
 | ⚡ Database | 🛠️ Monitoring | ⚡ Mainframe 
